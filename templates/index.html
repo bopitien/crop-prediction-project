@@ -114,10 +114,10 @@
           event.preventDefault();
           const formData = new FormData(event.target);
           const data = {
-            N: formData.get("N"),
-            P: formData.get("P"),
-            K: formData.get("K"),
-            ph: formData.get("ph"),
+            N: parseFloat(formData.get("N")),
+            P: parseFloat(formData.get("P")),
+            K: parseFloat(formData.get("K")),
+            ph: parseFloat(formData.get("ph")),
           };
 
           fetch("/predict", {

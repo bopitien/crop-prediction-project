@@ -1,4 +1,5 @@
-from flask import Flask, request, jsonify, send_from_directory
+import os
+from flask import Flask, request, jsonify, render_template, send_from_directory
 import joblib
 import pandas as pd
 
@@ -11,7 +12,7 @@ scaler = joblib.load('scaler.pkl')
 
 @app.route('/')
 def index():
-    return send_from_directory('.', 'index.html')
+    return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -41,4 +42,5 @@ def predict_batch():
         return jsonify({'error': 'Invalid file type'}), 400
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
