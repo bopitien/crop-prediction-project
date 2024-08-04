@@ -1,0 +1,279 @@
+2024-08-03 10:58:08,719 Accuracy: 0.8227272727272728
+2024-08-03 10:58:08,735 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 10:59:55,695 Accuracy: 0.8227272727272728
+2024-08-03 10:59:55,708 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 11:13:19,436 Accuracy: 0.8227272727272728
+2024-08-03 11:13:19,511 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 11:17:34,606 Accuracy: 0.8227272727272728
+2024-08-03 11:17:34,618 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 11:36:38,745 Accuracy: 0.8227272727272728
+2024-08-03 11:36:38,759 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 11:38:48,735 Accuracy: 0.8227272727272728
+2024-08-03 11:38:48,750 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 12:28:35,500 Accuracy: 0.8227272727272728
+2024-08-03 12:28:35,515 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 12:29:33,661 Accuracy: 0.8227272727272728
+2024-08-03 12:29:33,683 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
+2024-08-03 19:06:37,313 Accuracy: 0.8227272727272728
+2024-08-03 19:06:37,352 Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.78      0.61      0.68        23
+      banana       1.00      1.00      1.00        21
+   blackgram       0.85      0.85      0.85        20
+    chickpea       1.00      1.00      1.00        26
+     coconut       0.84      0.96      0.90        27
+      coffee       0.94      0.94      0.94        17
+      cotton       0.89      1.00      0.94        17
+      grapes       0.53      0.71      0.61        14
+        jute       0.55      0.78      0.64        23
+ kidneybeans       0.77      1.00      0.87        20
+      lentil       0.47      0.73      0.57        11
+       maize       1.00      0.95      0.98        21
+       mango       0.93      0.74      0.82        19
+   mothbeans       0.95      0.88      0.91        24
+    mungbean       0.76      1.00      0.86        19
+   muskmelon       0.65      0.65      0.65        17
+      orange       1.00      1.00      1.00        14
+      papaya       1.00      1.00      1.00        23
+  pigeonpeas       1.00      0.39      0.56        23
+ pomegranate       1.00      0.91      0.95        23
+        rice       0.50      0.21      0.30        19
+  watermelon       0.68      0.68      0.68        19
+
+    accuracy                           0.82       440
+   macro avg       0.82      0.82      0.81       440
+weighted avg       0.84      0.82      0.82       440
+
