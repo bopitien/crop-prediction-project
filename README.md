@@ -18,3 +18,9 @@ Each row in this dataset represents various measures of the soil in a particular
 * Predict the Crop Type: Use the variables N (Nitrogen),P (Phosphorous), K (Potassium), and pH value of the soil to build a machine learning model that can predict the type of crop (categorical target variable) that would be best suited for a given set of soil conditions. This is a classic example of a multi-class classification problem.
 
 * Identify the Most Significant Variable: Apart from predicting the crop type, a key part of the project is to determine which of these soil metrics (N, P, K, or pH) is the most predictive of the crop type. This involves analyzing the feature importance from the model to see which variable contributes the most to the model's predictive performance. This helps in understanding which soil metric is most critical for deciding the crop type, which can be very valuable for optimizing the use of resources in agricultural practices.
+
+
+---
+## WebApp Link
+
+https://croppredictor-33b6f77d1fc3.herokuapp.com/
